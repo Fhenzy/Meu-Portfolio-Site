@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3f781f69.chunk.css",
+    "main.js": "./static/js/main.9ee85679.chunk.js",
+    "main.js.map": "./static/js/main.9ee85679.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7247fe3a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7247fe3a.js.map",
+    "static/js/2.019c4a47.chunk.js": "./static/js/2.019c4a47.chunk.js",
+    "static/js/2.019c4a47.chunk.js.map": "./static/js/2.019c4a47.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3f781f69.chunk.css.map": "./static/css/main.3f781f69.chunk.css.map",
+    "static/js/2.019c4a47.chunk.js.LICENSE.txt": "./static/js/2.019c4a47.chunk.js.LICENSE.txt",
+    "static/media/cep.6f413150.png": "./static/media/cep.6f413150.png",
+    "static/media/clima.45f18865.png": "./static/media/clima.45f18865.png",
+    "static/media/ideia.2f1437f9.png": "./static/media/ideia.2f1437f9.png",
+    "static/media/insta.9870e2c4.png": "./static/media/insta.9870e2c4.png",
+    "static/media/marvel.fbb61841.png": "./static/media/marvel.fbb61841.png",
+    "static/media/netflix.849a609c.png": "./static/media/netflix.849a609c.png",
+    "static/media/restaurante.75f631e3.png": "./static/media/restaurante.75f631e3.png",
+    "static/media/video-cobrinha.014a004d.mp4": "./static/media/video-cobrinha.014a004d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7247fe3a.js",
+    "static/js/2.019c4a47.chunk.js",
+    "static/css/main.3f781f69.chunk.css",
+    "static/js/main.9ee85679.chunk.js"
+  ]
+}
