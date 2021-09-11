@@ -1,0 +1,52 @@
+#desc{
+    font-family: 'Orbitron', sans-serif;
+}
+
+div img {
+    transition: all 1s;
+    height: 405px;
+    object-fit: cover;
+}
+
+div LazyLoad {
+    transition: all 1s;
+}
+.frente{
+ height: 470px; 
+ overflow: hidden;
+}
+.frente:hover img{
+    height: 180px;
+}
+
+h5 {
+    padding-bottom: 9px;
+   text-align: center;
+   font-weight: bold;
+   font-size: 20px; 
+   font-family: 'Orbitron', sans-serif;
+}
+
+@media screen and (max-width: 470px) {
+    h5 {
+        padding-bottom: 20px;
+        position: relative;
+        bottom: 20px;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 350px) {
+    h5 {
+        padding-bottom: 20px;
+        position: relative;
+        bottom: 20px;
+        font-size: 15px;
+    }
+}
+
+a {
+    font-family: 'Orbitron', sans-serif;
+}
+#carta{
+    text-align: center;
+}
